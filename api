@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": 0,
       "attributes": {
         "title": "Headphones",
         "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966115/Jsdvstore%20Pictures/Categories/cat-1_ofvbdz.jpg",
@@ -17,7 +17,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 1,
       "attributes": {
         "title": "Smart Watches",
         "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966117/Jsdvstore%20Pictures/Categories/cat-3_tamakv.jpg",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 2,
       "attributes": {
         "title": "Speakers",
         "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966118/Jsdvstore%20Pictures/Categories/cat-2_fttzli.jpg",
@@ -51,7 +51,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 3,
       "attributes": {
         "title": "Wireless Earbuds",
         "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966117/Jsdvstore%20Pictures/Categories/cat-4_i8xn3z.jpg",
