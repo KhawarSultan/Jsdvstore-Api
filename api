@@ -4,7 +4,7 @@
       "attributes": {
         "title": "Headphones",
         "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966115/Jsdvstore%20Pictures/Categories/cat-1_ofvbdz.jpg",
-        "products": [
+        "products": 
           {
             "id": 1,
             "attributes": {
@@ -14,7 +14,6 @@
               "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966139/Jsdvstore%20Pictures/Products/headphone-prod-5_mb5whu.webp"
             }
           }
-        ]
       }
     },
     {
@@ -22,7 +21,7 @@
       "attributes": {
         "title": "Smart Watches",
         "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966117/Jsdvstore%20Pictures/Categories/cat-3_tamakv.jpg",
-        "products": [
+        "products": 
           {
             "id": 1,
             "attributes": {
@@ -32,7 +31,6 @@
               "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966140/Jsdvstore%20Pictures/Products/watch-prod-3_zjb7ju.webp"
             }
           }
-        ]
       }
     },
     {
@@ -40,7 +38,7 @@
       "attributes": {
         "title": "Speakers",
         "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966118/Jsdvstore%20Pictures/Categories/cat-2_fttzli.jpg",
-        "products": [
+        "products": 
           {
             "id": 1,
             "attributes": {
@@ -50,7 +48,6 @@
               "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966140/Jsdvstore%20Pictures/Products/speaker-prod-5_qlriut.webp"
             }
           }
-        ]
       }
     },
     {
@@ -58,7 +55,7 @@
       "attributes": {
         "title": "Wireless Earbuds",
         "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966117/Jsdvstore%20Pictures/Categories/cat-4_i8xn3z.jpg",
-        "products": [
+        "products":
           {
             "id": 1,
             "attributes": {
@@ -68,7 +65,6 @@
               "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966141/Jsdvstore%20Pictures/Products/earbuds-prod-5_bygeaj.webp"
             }
           }
-        ]
       }
     }
 ]
