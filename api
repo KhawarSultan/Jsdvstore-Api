@@ -9,7 +9,14 @@
             "desc": "Boat Rockerz 550 is an over-ear wireless headset that has been ergonomically designed to meet the needs of music lovers. The headphones come equipped with the latest Bluetooth v5.0 for instant wireless connectivity. Its powerful 500mAh battery provides playtime of up to 20 hours for an extended audio bliss. Its 50mm dynamic drivers help supply immersive musical experience to the user with immersive sound. The user can utilize the headset via dual connectivity in the form of Bluetooth and AUX.",
             "price": 1799,
             "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966139/Jsdvstore%20Pictures/Products/headphone-prod-5_mb5whu.webp"
-        }
+        },
+        {
+            "id": 2,
+            "title": "Rockerz 550 Over Ear Bluetooth Headphone",
+            "desc": "Boat Rockerz 550 is an over-ear wireless headset that has been ergonomically designed to meet the needs of music lovers. The headphones come equipped with the latest Bluetooth v5.0 for instant wireless connectivity. Its powerful 500mAh battery provides playtime of up to 20 hours for an extended audio bliss. Its 50mm dynamic drivers help supply immersive musical experience to the user with immersive sound. The user can utilize the headset via dual connectivity in the form of Bluetooth and AUX.",
+            "price": 1799,
+            "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966139/Jsdvstore%20Pictures/Products/headphone-prod-5_mb5whu.webp"
+        },
     },
     {
         "id": 1,
