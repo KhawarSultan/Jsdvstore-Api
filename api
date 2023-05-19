@@ -39,11 +39,13 @@
     "title": "Speakers",
     "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966118/Jsdvstore%20Pictures/Categories/cat-2_fttzli.jpg",
     "products": [
-      "id": 1,
-      "title": "Stone 1500F | 14W boAt Signature Sound with Passive Bass Radiator",
-      "desc": "Add life to all your parties with the ultimate jukebox - Stone 1200F bluetooth speaker. It’s powered by 14W boAt Signature Sound with Passive Bass Radiator that’s built to add spark to all your plans. The RGB LED lights are perfect to set the perfect vibe for a casual chilling session with your best buds. You can take it along everywhere you go with its 360-degree ergonomic design, shoulder strap and IPX7 Water & Splash Resistance that protects it even when outdoors",
-      "price": 3999,
-      "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966140/Jsdvstore%20Pictures/Products/speaker-prod-5_qlriut.webp"
+      {
+        "id": 1,
+        "title": "Stone 1500F | 14W boAt Signature Sound with Passive Bass Radiator",
+        "desc": "Add life to all your parties with the ultimate jukebox - Stone 1200F bluetooth speaker. It’s powered by 14W boAt Signature Sound with Passive Bass Radiator that’s built to add spark to all your plans. The RGB LED lights are perfect to set the perfect vibe for a casual chilling session with your best buds. You can take it along everywhere you go with its 360-degree ergonomic design, shoulder strap and IPX7 Water & Splash Resistance that protects it even when outdoors",
+        "price": 3999,
+        "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966140/Jsdvstore%20Pictures/Products/speaker-prod-5_qlriut.webp"
+      }
     ]
   },
   {
