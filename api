@@ -5,14 +5,14 @@
     "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966115/Jsdvstore%20Pictures/Categories/cat-1_ofvbdz.jpg",
     "products": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Rockerz 550 Over Ear Bluetooth Headphone",
         "desc": "Boat Rockerz 550 is an over-ear wireless headset that has been  ergonomically designed to meet the needs of music lovers. The  headphones come equipped with the latest Bluetooth v5.0 for instant  wireless connectivity. Its powerful 500mAh battery provides playtime of  up to 20 hours for an extended audio bliss. Its 50mm dynamic drivers  help supply immersive musical experience to the user with immersive  sound. The user can utilize the headset via dual connectivity in the  form of Bluetooth and AUX.",
         "price": 1799,
         "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966139/Jsdvstore%20Pictures/Products/headphone-prod-5_mb5whu.webp"
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "Rockerz 550 Over Ear Bluetooth Headphone",
         "desc": "Boat Rockerz 550 is an over-ear wireless headset that has been  ergonomically designed to meet the needs of music lovers. The  headphones come equipped with the latest Bluetooth v5.0 for instant  wireless connectivity. Its powerful 500mAh battery provides playtime of  up to 20 hours for an extended audio bliss. Its 50mm dynamic drivers  help supply immersive musical experience to the user with immersive  sound. The user can utilize the headset via dual connectivity in the  form of Bluetooth and AUX.",
         "price": 1799,
@@ -26,7 +26,7 @@
     "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966117/Jsdvstore%20Pictures/Categories/cat-3_tamakv.jpg",
     "products": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Boat Wave Neo | 1.69\" HD Display, Upto 7 Days Battery Life, IP68 Sweat",
         "desc": "Introducing a #NeoWay to live smart and stylish – the all-new Watch Wave Neo. Check everything that you need in a smartwatch and then get some more. Packed with a 1.69 inches screen, 550 nits brightness & 2.5D Curved Display – Watch Wave Neo will make your world better & brighter",
         "price": 1899,
@@ -40,7 +40,7 @@
     "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966118/Jsdvstore%20Pictures/Categories/cat-2_fttzli.jpg",
     "products": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Stone 1500F | 14W boAt Signature Sound with Passive Bass Radiator",
         "desc": "Add life to all your parties with the ultimate jukebox - Stone 1200F bluetooth speaker. It’s powered by 14W boAt Signature Sound with Passive Bass Radiator that’s built to add spark to all your plans. The RGB LED lights are perfect to set the perfect vibe for a casual chilling session with your best buds. You can take it along everywhere you go with its 360-degree ergonomic design, shoulder strap and IPX7 Water & Splash Resistance that protects it even when outdoors",
         "price": 3999,
@@ -54,7 +54,7 @@
     "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966117/Jsdvstore%20Pictures/Categories/cat-4_i8xn3z.jpg",
     "products": [
       {
-        "id": 1,
+        "id": 0,
         "title": "TRebel Airdopes 141 | 8mm drivers, Upto 42 Hours Total Playback, ENxTM Technology, ASAPTM Charge",
         "desc": "Hello sassy and fierce ladies! We see you soaring high for your dreams, and we want to support them. Let TRebel Airdopes 141 be your biggest cheerleader while you win the world with your go-getter attitude! Shun their opinions by indulging in your rhythm with the 8mm Dynamic Drivers. Ace those business calls with its ENx™ Technology that makes you heard every time. ASAP™ Charge empowers you with 75 minutes of playback with just 5 minutes of charging. IPX4 makes it easier to roll in the good times as you rock that sweat, changing your lifestyle. Connect instantly with its IWP™ Technology & keep everything under control with its Quick Response Touch.",
         "price": 1499,
