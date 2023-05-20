@@ -1,32 +1,28 @@
 [
   {
     "id": 0,
-    "attributes": [
+    "title": "Headphones",
+    "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966115/Jsdvstore%20Pictures/Categories/cat-1_ofvbdz.jpg",
+    "products": [
       {
-        "title": "Headphones",
-        "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966115/Jsdvstore%20Pictures/Categories/cat-1_ofvbdz.jpg",
-        "products": [
+        "id": 0,
+        "attributes": [
           {
-            "id": 0,
-            "attributes": [
-              {
-                "title": "Rockerz 550 Over Ear Bluetooth Headphone",
-                "desc": "Boat Rockerz 550 is an over-ear wireless headset that has been  ergonomically designed to meet the needs of music lovers. The  headphones come equipped with the latest Bluetooth v5.0 for instant  wireless connectivity. Its powerful 500mAh battery provides playtime of  up to 20 hours for an extended audio bliss. Its 50mm dynamic drivers  help supply immersive musical experience to the user with immersive  sound. The user can utilize the headset via dual connectivity in the  form of Bluetooth and AUX.",
-                "price": 1799,
-                "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966139/Jsdvstore%20Pictures/Products/headphone-prod-5_mb5whu.webp"
-              }
-            ]
-          },
+            "title": "Rockerz 550 Over Ear Bluetooth Headphone",
+            "desc": "Boat Rockerz 550 is an over-ear wireless headset that has been  ergonomically designed to meet the needs of music lovers. The  headphones come equipped with the latest Bluetooth v5.0 for instant  wireless connectivity. Its powerful 500mAh battery provides playtime of  up to 20 hours for an extended audio bliss. Its 50mm dynamic drivers  help supply immersive musical experience to the user with immersive  sound. The user can utilize the headset via dual connectivity in the  form of Bluetooth and AUX.",
+            "price": 1799,
+            "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966139/Jsdvstore%20Pictures/Products/headphone-prod-5_mb5whu.webp"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "attributes": [
           {
-            "id": 1,
-            "attributes": [
-              {
-                "title": "Rockerz 550 Over Ear Bluetooth Headphone",
-                "desc": "Boat Rockerz 550 is an over-ear wireless headset that has been  ergonomically designed to meet the needs of music lovers. The  headphones come equipped with the latest Bluetooth v5.0 for instant  wireless connectivity. Its powerful 500mAh battery provides playtime of  up to 20 hours for an extended audio bliss. Its 50mm dynamic drivers  help supply immersive musical experience to the user with immersive  sound. The user can utilize the headset via dual connectivity in the  form of Bluetooth and AUX.",
-                "price": 1799,
-                "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966139/Jsdvstore%20Pictures/Products/headphone-prod-5_mb5whu.webp"
-              }
-            ]
+            "title": "Rockerz 550 Over Ear Bluetooth Headphone",
+            "desc": "Boat Rockerz 550 is an over-ear wireless headset that has been  ergonomically designed to meet the needs of music lovers. The  headphones come equipped with the latest Bluetooth v5.0 for instant  wireless connectivity. Its powerful 500mAh battery provides playtime of  up to 20 hours for an extended audio bliss. Its 50mm dynamic drivers  help supply immersive musical experience to the user with immersive  sound. The user can utilize the headset via dual connectivity in the  form of Bluetooth and AUX.",
+            "price": 1799,
+            "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966139/Jsdvstore%20Pictures/Products/headphone-prod-5_mb5whu.webp"
           }
         ]
       }
@@ -34,21 +30,17 @@
   },
   {
     "id": 1,
-    "attributes": [
+    "title": "Smart Watches",
+    "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966117/Jsdvstore%20Pictures/Categories/cat-3_tamakv.jpg",
+    "products": [
       {
-        "title": "Smart Watches",
-        "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966117/Jsdvstore%20Pictures/Categories/cat-3_tamakv.jpg",
-        "products": [
+        "id": 0,
+        "attributes": [
           {
-            "id": 0,
-            "attributes": [
-              {
-                "title": "Boat Wave Neo | 1.69\" HD Display, Upto 7 Days Battery Life, IP68 Sweat",
-                "desc": "Introducing a #NeoWay to live smart and stylish – the all-new Watch Wave Neo. Check everything that you need in a smartwatch and then get some more. Packed with a 1.69 inches screen, 550 nits brightness & 2.5D Curved Display – Watch Wave Neo will make your world better & brighter",
-                "price": 1899,
-                "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966140/Jsdvstore%20Pictures/Products/watch-prod-3_zjb7ju.webp"
-              }
-            ]
+            "title": "Boat Wave Neo | 1.69\" HD Display, Upto 7 Days Battery Life, IP68 Sweat",
+            "desc": "Introducing a #NeoWay to live smart and stylish – the all-new Watch Wave Neo. Check everything that you need in a smartwatch and then get some more. Packed with a 1.69 inches screen, 550 nits brightness & 2.5D Curved Display – Watch Wave Neo will make your world better & brighter",
+            "price": 1899,
+            "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966140/Jsdvstore%20Pictures/Products/watch-prod-3_zjb7ju.webp"
           }
         ]
       }
@@ -56,21 +48,17 @@
   },
   {
     "id": 2,
-    "attributes": [
+    "title": "Speakers",
+    "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966118/Jsdvstore%20Pictures/Categories/cat-2_fttzli.jpg",
+    "products": [
       {
-        "title": "Speakers",
-        "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966118/Jsdvstore%20Pictures/Categories/cat-2_fttzli.jpg",
-        "products": [
+        "id": 0,
+        "attributes": [
           {
-            "id": 0,
-            "attributes": [
-              {
-                "title": "Stone 1500F | 14W boAt Signature Sound with Passive Bass Radiator",
-                "desc": "Add life to all your parties with the ultimate jukebox - Stone 1200F bluetooth speaker. It’s powered by 14W boAt Signature Sound with Passive Bass Radiator that’s built to add spark to all your plans. The RGB LED lights are perfect to set the perfect vibe for a casual chilling session with your best buds. You can take it along everywhere you go with its 360-degree ergonomic design, shoulder strap and IPX7 Water & Splash Resistance that protects it even when outdoors",
-                "price": 3999,
-                "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966140/Jsdvstore%20Pictures/Products/speaker-prod-5_qlriut.webp"
-              }
-            ]
+            "title": "Stone 1500F | 14W boAt Signature Sound with Passive Bass Radiator",
+            "desc": "Add life to all your parties with the ultimate jukebox - Stone 1200F bluetooth speaker. It’s powered by 14W boAt Signature Sound with Passive Bass Radiator that’s built to add spark to all your plans. The RGB LED lights are perfect to set the perfect vibe for a casual chilling session with your best buds. You can take it along everywhere you go with its 360-degree ergonomic design, shoulder strap and IPX7 Water & Splash Resistance that protects it even when outdoors",
+            "price": 3999,
+            "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966140/Jsdvstore%20Pictures/Products/speaker-prod-5_qlriut.webp"
           }
         ]
       }
@@ -78,21 +66,17 @@
   },
   {
     "id": 3,
-    "attributes": [
+    "title": "Wireless Earbuds",
+    "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966117/Jsdvstore%20Pictures/Categories/cat-4_i8xn3z.jpg",
+    "products": [
       {
-        "title": "Wireless Earbuds",
-        "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966117/Jsdvstore%20Pictures/Categories/cat-4_i8xn3z.jpg",
-        "products": [
+        "id": 0,
+        "attributes": [
           {
-            "id": 0,
-            "attributes": [
-              {
-                "title": "TRebel Airdopes 141 | 8mm drivers, Upto 42 Hours Total Playback, ENxTM Technology, ASAPTM Charge",
-                "desc": "Hello sassy and fierce ladies! We see you soaring high for your dreams, and we want to support them. Let TRebel Airdopes 141 be your biggest cheerleader while you win the world with your go-getter attitude! Shun their opinions by indulging in your rhythm with the 8mm Dynamic Drivers. Ace those business calls with its ENx™ Technology that makes you heard every time. ASAP™ Charge empowers you with 75 minutes of playback with just 5 minutes of charging. IPX4 makes it easier to roll in the good times as you rock that sweat, changing your lifestyle. Connect instantly with its IWP™ Technology & keep everything under control with its Quick Response Touch.",
-                "price": 1499,
-                "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966141/Jsdvstore%20Pictures/Products/earbuds-prod-5_bygeaj.webp"
-              }
-            ]
+            "title": "TRebel Airdopes 141 | 8mm drivers, Upto 42 Hours Total Playback, ENxTM Technology, ASAPTM Charge",
+            "desc": "Hello sassy and fierce ladies! We see you soaring high for your dreams, and we want to support them. Let TRebel Airdopes 141 be your biggest cheerleader while you win the world with your go-getter attitude! Shun their opinions by indulging in your rhythm with the 8mm Dynamic Drivers. Ace those business calls with its ENx™ Technology that makes you heard every time. ASAP™ Charge empowers you with 75 minutes of playback with just 5 minutes of charging. IPX4 makes it easier to roll in the good times as you rock that sweat, changing your lifestyle. Connect instantly with its IWP™ Technology & keep everything under control with its Quick Response Touch.",
+            "price": 1499,
+            "img": "https://res.cloudinary.com/denajbnh4/image/upload/v1683966141/Jsdvstore%20Pictures/Products/earbuds-prod-5_bygeaj.webp"
           }
         ]
       }
